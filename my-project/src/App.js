@@ -1,12 +1,14 @@
 import Header from "./Header.jsx";
 import Footer from "./Footer.jsx";
 import Intro from "./Intro.jsx";
+import Card from "./Card.jsx";
 
 function App() {
   return (
     <>
       <Header></Header>
       <Intro></Intro>
+      <Card></Card>
       <Footer></Footer>
     </>
   );
